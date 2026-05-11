@@ -1,0 +1,9 @@
+{
+  "contractId": "SP16F6839630K5XX06KE7KVNSNMYBK89912NH6N4C.rune-stamp",
+  "deployer": "SP16F6839630K5XX06KE7KVNSNMYBK89912NH6N4C",
+  "txid": "907d455b5879700bed5e4bb78d3e253ccda7e582fe8c701f7da6363434b2f61d",
+  "submittedAt": "2026-05-11T12:47:05.320Z",
+  "fee": "5000",
+  "clarityVersion": 4,
+  "explorer": "https://explorer.hiro.so/txid/907d455b5879700bed5e4bb78d3e253ccda7e582fe8c701f7da6363434b2f61d?chain=mainnet"
+}
