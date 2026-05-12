@@ -22,3 +22,7 @@ Static HTML in `frontend/`. Pick a rune from the 24-glyph grid, connect a wallet
 ## License
 
 MIT
+
+---
+
+_Last updated: 2026-05-12_
