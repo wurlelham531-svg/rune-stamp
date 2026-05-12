@@ -5,3 +5,4 @@
 - 2026-05-12 — housekeeping pass (1w9z)
 - 2026-05-12 — housekeeping pass (usyx)
 - 2026-05-12 — housekeeping pass (ao7r)
+- 2026-05-12 — small wording fixes (mktf)
