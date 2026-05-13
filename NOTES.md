@@ -13,3 +13,4 @@ Dev journal — informal.
 - 2026-05-12: considering a small tweak to UX copy
 - 2026-05-12: todo: better empty-state copy
 - 2026-05-13: micro-task: align dates in changelog format
+- 2026-05-13: note: keep the frontend layout untouched for now
