@@ -14,3 +14,4 @@
 - 2026-05-13 — minor cleanup and polish (4u4p)
 - 2026-05-13 — misc tweaks (ic3o)
 - 2026-05-13 — tidy up notes (kp4u)
+- 2026-05-13 — small refinements (43jb)
