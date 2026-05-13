@@ -23,3 +23,6 @@
 - 2026-05-13 — small refinements (574p)
 - 2026-05-13 — refresh build metadata (k8f2)
 - 2026-05-13 — small doc improvements (3ugf)
+- 2026-05-13 — misc tweaks (78cb)
+- 2026-05-13 — small refinements (mxel)
+- 2026-05-13 — refresh build metadata (rjic)
