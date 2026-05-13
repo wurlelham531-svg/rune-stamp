@@ -26,3 +26,4 @@
 - 2026-05-13 — misc tweaks (78cb)
 - 2026-05-13 — small refinements (mxel)
 - 2026-05-13 — refresh build metadata (rjic)
+- 2026-05-13 — small wording fixes (fnqk)
