@@ -17,3 +17,4 @@
 - 2026-05-13 — small refinements (43jb)
 - 2026-05-13 — small refinements (giy2)
 - 2026-05-13 — minor cleanup and polish (wgki)
+- 2026-05-13 — small doc improvements (jef6)
