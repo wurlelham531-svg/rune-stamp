@@ -7,3 +7,4 @@
 - 2026-05-12 — housekeeping pass (ao7r)
 - 2026-05-12 — small wording fixes (mktf)
 - 2026-05-12 — tidy up notes (sb9k)
+- 2026-05-13 — minor cleanup and polish (dpoj)
