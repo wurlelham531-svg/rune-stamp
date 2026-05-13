@@ -21,3 +21,4 @@
 - 2026-05-13 — tighten docs (cdwn)
 - 2026-05-13 — small wording fixes (rxkz)
 - 2026-05-13 — small refinements (574p)
+- 2026-05-13 — refresh build metadata (k8f2)
