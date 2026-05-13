@@ -10,3 +10,4 @@
 - 2026-05-13 — minor cleanup and polish (dpoj)
 - 2026-05-13 — small doc improvements (tf00)
 - 2026-05-13 — small wording fixes (rokj)
+- 2026-05-13 — routine maintenance (h3sv)
