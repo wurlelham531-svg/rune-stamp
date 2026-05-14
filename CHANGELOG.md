@@ -31,3 +31,4 @@
 - 2026-05-14 — refresh build metadata (4vjf)
 - 2026-05-14 — small wording fixes (be2t)
 - 2026-05-14 — small wording fixes (mh2w)
+- 2026-05-14 — misc tweaks (tqa9)
