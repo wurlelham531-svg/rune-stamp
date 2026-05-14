@@ -29,3 +29,4 @@
 - 2026-05-13 — small wording fixes (fnqk)
 - 2026-05-13 — tidy up notes (gbpz)
 - 2026-05-14 — refresh build metadata (4vjf)
+- 2026-05-14 — small wording fixes (be2t)
