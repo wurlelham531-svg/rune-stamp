@@ -33,3 +33,4 @@
 - 2026-05-14 — small wording fixes (mh2w)
 - 2026-05-14 — misc tweaks (tqa9)
 - 2026-05-14 — tighten docs (8ue2)
+- 2026-05-14 — small wording fixes (2c88)
