@@ -28,3 +28,4 @@ Dev journal — informal.
 - 2026-05-14: thought: maybe a small "how it works" section
 - 2026-05-14: note: keep the frontend layout untouched for now
 - 2026-05-14: todo: better empty-state copy
+- 2026-05-14: micro-task: align dates in changelog format
