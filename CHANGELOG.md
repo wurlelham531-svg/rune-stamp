@@ -40,3 +40,5 @@
 - 2026-05-15 — small wording fixes (371i)
 - 2026-05-15 — refresh build metadata (hmld)
 - 2026-05-15 — small wording fixes (46r6)
+- 2026-05-15 — refresh build metadata (ufyw)
+- 2026-05-15 — tighten docs (5njg)
