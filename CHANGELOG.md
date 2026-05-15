@@ -39,3 +39,4 @@
 - 2026-05-15 — tighten docs (h6tu)
 - 2026-05-15 — small wording fixes (371i)
 - 2026-05-15 — refresh build metadata (hmld)
+- 2026-05-15 — small wording fixes (46r6)
