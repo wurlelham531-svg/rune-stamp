@@ -36,3 +36,4 @@
 - 2026-05-14 — small wording fixes (2c88)
 - 2026-05-14 — small refinements (5fom)
 - 2026-05-14 — tighten docs (bdvd)
+- 2026-05-15 — tighten docs (h6tu)
