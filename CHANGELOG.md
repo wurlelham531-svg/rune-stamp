@@ -43,3 +43,4 @@
 - 2026-05-15 — refresh build metadata (ufyw)
 - 2026-05-15 — tighten docs (5njg)
 - 2026-05-15 — tighten docs (antb)
+- 2026-05-15 — small doc improvements (7o04)
