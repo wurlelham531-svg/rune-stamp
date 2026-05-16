@@ -48,3 +48,4 @@
 - 2026-05-15 — tidy up notes (05jk)
 - 2026-05-16 — routine maintenance (zzl2)
 - 2026-05-16 — small doc improvements (9onp)
+- 2026-05-16 — tighten docs (xne0)
