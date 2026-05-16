@@ -38,3 +38,4 @@ Dev journal — informal.
 - 2026-05-15: thinking about cleanup of contract entry point
 - 2026-05-15: idea: tiny visual polish on the home page
 - 2026-05-15: reminder: keep docs in sync with on-chain calls
+- 2026-05-16: thought: maybe a small "how it works" section
