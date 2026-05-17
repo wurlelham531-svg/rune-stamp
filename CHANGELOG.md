@@ -57,3 +57,4 @@
 - 2026-05-17 — minor cleanup and polish (qnah)
 - 2026-05-17 — refresh build metadata (7m4k)
 - 2026-05-17 — misc tweaks (qcxq)
+- 2026-05-17 — misc tweaks (zfdd)
