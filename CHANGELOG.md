@@ -58,3 +58,4 @@
 - 2026-05-17 — refresh build metadata (7m4k)
 - 2026-05-17 — misc tweaks (qcxq)
 - 2026-05-17 — misc tweaks (zfdd)
+- 2026-05-17 — small wording fixes (pj5u)
