@@ -60,3 +60,4 @@
 - 2026-05-17 — misc tweaks (zfdd)
 - 2026-05-17 — small wording fixes (pj5u)
 - 2026-05-17 — small doc improvements (6kyr)
+- 2026-05-17 — refresh build metadata (qp6p)
