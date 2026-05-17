@@ -55,3 +55,7 @@
 - 2026-05-17 — small wording fixes (tycr)
 - 2026-05-17 — small doc improvements (tj2h)
 - 2026-05-17 — minor cleanup and polish (qnah)
+- 2026-05-17 — refresh build metadata (7m4k)
+- 2026-05-17 — misc tweaks (qcxq)
+- 2026-05-17 — misc tweaks (zfdd)
+- 2026-05-17 — small wording fixes (pj5u)
