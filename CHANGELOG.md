@@ -54,3 +54,4 @@
 - 2026-05-16 — tighten docs (r4wx)
 - 2026-05-17 — small wording fixes (tycr)
 - 2026-05-17 — small doc improvements (tj2h)
+- 2026-05-17 — minor cleanup and polish (qnah)
