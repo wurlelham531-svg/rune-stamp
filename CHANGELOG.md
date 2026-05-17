@@ -63,3 +63,4 @@
 - 2026-05-17 — refresh build metadata (qp6p)
 - 2026-05-17 — tidy up notes (gev6)
 - 2026-05-17 — tidy up notes (kyjn)
+- 2026-05-17 — tighten docs (qa1x)
