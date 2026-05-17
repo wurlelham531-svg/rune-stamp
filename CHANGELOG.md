@@ -52,3 +52,4 @@
 - 2026-05-16 — housekeeping pass (pj52)
 - 2026-05-16 — small doc improvements (m91z)
 - 2026-05-16 — tighten docs (r4wx)
+- 2026-05-17 — small wording fixes (tycr)
