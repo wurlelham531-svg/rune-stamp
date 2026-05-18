@@ -65,3 +65,4 @@
 - 2026-05-17 — tidy up notes (kyjn)
 - 2026-05-17 — tighten docs (qa1x)
 - 2026-05-18 — small doc improvements (v5qk)
+- 2026-05-18 — small refinements (fopr)
