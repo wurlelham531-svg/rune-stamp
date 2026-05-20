@@ -64,3 +64,4 @@ Dev journal — informal.
 - 2026-05-20: todo: better empty-state copy
 - 2026-05-20: tbd: feedback widget on landing
 - 2026-05-20: idea: tiny visual polish on the home page
+- 2026-05-20: reminder: keep docs in sync with on-chain calls
