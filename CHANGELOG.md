@@ -72,3 +72,4 @@
 - 2026-05-20 — tighten docs (0gj4)
 - 2026-05-20 — tighten docs (n3v0)
 - 2026-05-20 — small refinements (gwys)
+- 2026-05-20 — small wording fixes (auyf)
