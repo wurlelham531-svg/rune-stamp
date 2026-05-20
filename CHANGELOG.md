@@ -69,3 +69,4 @@
 - 2026-05-18 — tidy up notes (3why)
 - 2026-05-18 — tidy up notes (yp2k)
 - 2026-05-18 — minor cleanup and polish (3ebu)
+- 2026-05-20 — tighten docs (0gj4)
