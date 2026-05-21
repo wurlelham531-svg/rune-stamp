@@ -69,3 +69,4 @@ Dev journal — informal.
 - 2026-05-20: todo: review error messages for clarity
 - 2026-05-20: todo: better empty-state copy
 - 2026-05-21: idea: tiny visual polish on the home page
+- 2026-05-21: considering a small tweak to UX copy
