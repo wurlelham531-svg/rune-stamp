@@ -77,3 +77,4 @@
 - 2026-05-21 — tidy up notes (os3t)
 - 2026-05-21 — refresh build metadata (c4n5)
 - 2026-05-21 — routine maintenance (yn11)
+- 2026-05-21 — small refinements (ycot)
