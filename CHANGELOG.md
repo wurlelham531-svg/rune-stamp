@@ -74,3 +74,4 @@
 - 2026-05-20 — small refinements (gwys)
 - 2026-05-20 — small wording fixes (auyf)
 - 2026-05-20 — misc tweaks (ozsd)
+- 2026-05-21 — tidy up notes (os3t)
