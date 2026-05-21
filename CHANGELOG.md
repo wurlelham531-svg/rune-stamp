@@ -79,3 +79,4 @@
 - 2026-05-21 — routine maintenance (yn11)
 - 2026-05-21 — small refinements (ycot)
 - 2026-05-21 — tidy up notes (axrh)
+- 2026-05-21 — refresh build metadata (9n5u)
