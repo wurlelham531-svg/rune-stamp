@@ -75,3 +75,4 @@
 - 2026-05-20 — small wording fixes (auyf)
 - 2026-05-20 — misc tweaks (ozsd)
 - 2026-05-21 — tidy up notes (os3t)
+- 2026-05-21 — refresh build metadata (c4n5)
