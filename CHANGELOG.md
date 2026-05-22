@@ -80,3 +80,4 @@
 - 2026-05-21 — small refinements (ycot)
 - 2026-05-21 — tidy up notes (axrh)
 - 2026-05-21 — refresh build metadata (9n5u)
+- 2026-05-22 — small doc improvements (8z8w)
