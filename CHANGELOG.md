@@ -83,3 +83,5 @@
 - 2026-05-22 — small doc improvements (8z8w)
 - 2026-05-23 — housekeeping pass (93gx)
 - 2026-05-23 — tidy up notes (ynz6)
+- 2026-05-23 — misc tweaks (xnb1)
+- 2026-05-23 — misc tweaks (s7tc)
