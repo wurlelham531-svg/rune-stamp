@@ -87,3 +87,4 @@
 - 2026-05-23 — misc tweaks (s7tc)
 - 2026-05-23 — misc tweaks (6riq)
 - 2026-05-23 — small refinements (mjo0)
+- 2026-05-23 — small wording fixes (9l2m)
