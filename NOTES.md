@@ -83,3 +83,4 @@ Dev journal — informal.
 - 2026-05-23: todo: review error messages for clarity
 - 2026-05-25: note: keep the frontend layout untouched for now
 - 2026-05-25: note: keep the frontend layout untouched for now
+- 2026-05-25: thinking about cleanup of contract entry point
