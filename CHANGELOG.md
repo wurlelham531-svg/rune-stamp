@@ -92,3 +92,5 @@
 - 2026-05-25 — housekeeping pass (5d9q)
 - 2026-05-29 — small refinements (hh5r)
 - 2026-05-29 — small refinements (5hhf)
+- 2026-05-29 — small refinements (pxu0)
+- 2026-05-29 — small wording fixes (h5n2)
