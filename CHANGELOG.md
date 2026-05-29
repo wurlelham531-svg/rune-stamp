@@ -90,3 +90,5 @@
 - 2026-05-23 — small wording fixes (9l2m)
 - 2026-05-25 — small doc improvements (ngl9)
 - 2026-05-25 — housekeeping pass (5d9q)
+- 2026-05-29 — small refinements (hh5r)
+- 2026-05-29 — small refinements (5hhf)
